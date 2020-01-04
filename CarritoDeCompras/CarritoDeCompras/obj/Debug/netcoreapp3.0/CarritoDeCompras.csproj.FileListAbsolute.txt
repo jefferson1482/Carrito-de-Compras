@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.0\CarritoDeCompras.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.0\CarritoDeCompras.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.0\CarritoDeCompras.AssemblyInfo.cs
+D:\Mis Documentos\Nueva carpeta - copia (4)\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.0\CarritoDeCompras.exe
+D:\Mis Documentos\Nueva carpeta - copia (4)\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.0\CarritoDeCompras.deps.json
+D:\Mis Documentos\Nueva carpeta - copia (4)\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.0\CarritoDeCompras.runtimeconfig.json
+D:\Mis Documentos\Nueva carpeta - copia (4)\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.0\CarritoDeCompras.runtimeconfig.dev.json
+D:\Mis Documentos\Nueva carpeta - copia (4)\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.0\CarritoDeCompras.dll
+D:\Mis Documentos\Nueva carpeta - copia (4)\CarritoDeCompras\CarritoDeCompras\bin\Debug\netcoreapp3.0\CarritoDeCompras.pdb
+D:\Mis Documentos\Nueva carpeta - copia (4)\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.0\CarritoDeCompras.csprojAssemblyReference.cache
+D:\Mis Documentos\Nueva carpeta - copia (4)\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.0\CarritoDeCompras.AssemblyInfoInputs.cache
+D:\Mis Documentos\Nueva carpeta - copia (4)\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.0\CarritoDeCompras.AssemblyInfo.cs
+D:\Mis Documentos\Nueva carpeta - copia (4)\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.0\CarritoDeCompras.dll
+D:\Mis Documentos\Nueva carpeta - copia (4)\CarritoDeCompras\CarritoDeCompras\obj\Debug\netcoreapp3.0\CarritoDeCompras.pdb
